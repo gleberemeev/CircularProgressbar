@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CiruclarProgressbar.iml" filepath="$PROJECT_DIR$/CiruclarProgressbar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circularprogressbar/circularprogressbar.iml" filepath="$PROJECT_DIR$/circularprogressbar/circularprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircularProgressbar.iml" filepath="$PROJECT_DIR$/.idea/modules/CircularProgressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circularprogressbar/CircularProgressbar.circularprogressbar.iml" filepath="$PROJECT_DIR$/.idea/modules/circularprogressbar/CircularProgressbar.circularprogressbar.iml" />
     </modules>
   </component>
 </project>
